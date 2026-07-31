@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vaibh\\Desktop\\20daysTraining\\Week-1\\Day-4\\CoursePrereqisiteSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-1\\Day-4\\CoursePrereqisiteSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7865911-1B55-4A3C-B881-DCAEFFBA73DB}|CoursePrereqisiteSystem.csproj|c:\\users\\vaibh\\desktop\\20daystraining\\week-1\\day-4\\courseprereqisitesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7865911-1B55-4A3C-B881-DCAEFFBA73DB}|CoursePrereqisiteSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D8A0751-DB5D-45CF-2A53-0428E34F0FA2}|CoursePrereqisiteSystem.csproj|c:\\users\\vaibh\\desktop\\training cg\\week-1\\day-4\\courseprereqisitesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A0751-DB5D-45CF-2A53-0428E34F0FA2}|CoursePrereqisiteSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vaibh\\Desktop\\20daysTraining\\Week-1\\Day-4\\CoursePrereqisiteSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-1\\Day-4\\CoursePrereqisiteSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vaibh\\Desktop\\20daysTraining\\Week-1\\Day-4\\CoursePrereqisiteSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-1\\Day-4\\CoursePrereqisiteSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowOgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-31T08:34:40.858Z",
               "EditorCaption": ""

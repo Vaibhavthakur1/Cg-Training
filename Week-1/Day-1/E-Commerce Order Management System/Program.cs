@@ -16,56 +16,59 @@ class Program
 
         //DisplayOrderDetails();
 
-        //static void DisplayOrderDetails()
-        //{
-        //    foreach (string order in orders)
-        //    {
-        //        string[] data = order.Split('|');
+        static void DisplayOrderDetails()
+        {
+            foreach (string order in orders)
+            {
+                string[] data = order.Split('|');
 
-        //        Console.WriteLine("Order Id: " + data[0]);
-        //        Console.WriteLine("Name: " + data[1]);
-        //        Console.WriteLine("Quantity: " + data[2]);
-        //        Console.WriteLine("Order Status: " + data[3]);
+                Console.WriteLine("Order Id: " + data[0]);
+                Console.WriteLine("Name: " + data[1]);
+                Console.WriteLine("Quantity: " + data[2]);
+                Console.WriteLine("Order Status: " + data[3]);
 
-        //    }
-        //}
+            }
+        }
 
-        //static void DisplayUpperCaseNames()
-        //{
-        //    foreach(string order in orders)
-        //    {
-        //        string[] data = order.Split('|');
-        //        Console.WriteLine(data[1].ToUpper());
-        //    }
-        //}
+        //display customer names in upper case
+        static void DisplayUpperCaseNames()
+        {
+            foreach (string order in orders)
+            {
+                string[] data = order.Split('|');
+                Console.WriteLine(data[1].ToUpper());
+            }
+        }
 
-        //DisplayUpperCaseNames();
-
-        //static void DisplayInitials()
-        //{
-        //    foreach(string order in orders)
-        //    {
-        //        string[] data = order.Split('|');
-
-        //        string[] name = data[1].Split(' ');
-
-        //        string initials = "";
-
-        //        foreach(string s in name)
-        //        {
-        //            initials += s.Substring(0, 1);
-        //        }
-        //        Console.WriteLine(data[1] + " : " + initials);
+        DisplayUpperCaseNames();
 
 
-        //    }
-        //}
+        //Task 3: Display the initials of each customer name along with their full name.
+        static void DisplayInitials()
+        {
+            foreach (string order in orders)
+            {
+                string[] data = order.Split('|');
 
-        //DisplayInitials();
+                string[] name = data[1].Split(' ');
+
+                string initials = "";
+
+                foreach (string s in name)
+                {
+                    initials += s.Substring(0, 1);
+                }
+                Console.WriteLine(data[1] + " : " + initials);
+
+
+            }
+        }
+
+        DisplayInitials();
 
 
 
-        //delivered order
+        //Task 4: Display delivered orders
         static void DisplayDeliveredOrders()
         {
             foreach(string order in orders)
@@ -81,7 +84,7 @@ class Program
 
         DisplayDeliveredOrders();
 
-        //TotalOrder
+        //Task 5: Count total orders
 
         static void CountOrders()
         {
@@ -125,6 +128,7 @@ class Program
 
         SearchOrderById();
 
+        //Task 7: Extract the price of each order and display it.
         static void ExtractOrder()
         {
             foreach(string order in orders)

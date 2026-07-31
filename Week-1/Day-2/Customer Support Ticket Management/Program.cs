@@ -16,6 +16,7 @@ class Customer
     int front = 0;
     int rear = -1;
 
+    //to insert tickets into the queue
     public void enqueue()
     {
         foreach (string ticket in tickets)
@@ -29,6 +30,8 @@ class Customer
         }
 
     }
+
+    //to display the queue
     public void Display()
     {
         for (int i = front; i <= rear; i++)
@@ -36,6 +39,8 @@ class Customer
             Console.WriteLine(queue[i]);
         }
     }
+
+    //search ticket by id
     public void SearchById()
     {
         Console.Write("Enter ticket id: ");
@@ -61,7 +66,8 @@ class Customer
             Console.WriteLine("Ticket not found");
         }
     }
-
+    
+    //search BY Name
     public void SearchByName()
     {
         Console.Write("Enter Name: ");
@@ -88,6 +94,7 @@ class Customer
         }
     }
 
+    // remove element from the queue
     public void Dequeue()
     {
         if (front <= rear)
@@ -102,6 +109,8 @@ class Customer
         }
 
     }
+
+    //Count the no of issues in the queue
 
     public void CountIssue()
     {
@@ -140,11 +149,12 @@ class Program
     {
         Customer cs = new Customer();
 
+        //execute the methods
         cs.enqueue();
         cs.Display();
         cs.CountIssue();
         cs.SearchByName();
-        //cs.SearchById();
+        cs.SearchById();
 
         //cs.Dequeue();
         //cs.Display();

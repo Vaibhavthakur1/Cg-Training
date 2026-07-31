@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vaibh\\Desktop\\20daysTraining\\Week-1\\Day-1\\E-Commerce Order Management System\\",
+  "WorkspaceRootPath": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-1\\Day-1\\E-Commerce Order Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA0FA665-3EF0-C9ED-D4B6-74AC1AA25908}|E-Commerce Order Management System.csproj|c:\\users\\vaibh\\desktop\\20daystraining\\week-1\\day-1\\e-commerce order management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA0FA665-3EF0-C9ED-D4B6-74AC1AA25908}|E-Commerce Order Management System.csproj|c:\\users\\vaibh\\desktop\\training cg\\week-1\\day-1\\e-commerce order management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA0FA665-3EF0-C9ED-D4B6-74AC1AA25908}|E-Commerce Order Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,14 +37,18 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vaibh\\Desktop\\20daysTraining\\Week-1\\Day-1\\E-Commerce Order Management System\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-1\\Day-1\\E-Commerce Order Management System\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vaibh\\Desktop\\20daysTraining\\Week-1\\Day-1\\E-Commerce Order Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-1\\Day-1\\E-Commerce Order Management System\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAQwIoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwIMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-28T11:30:49.424Z",
               "EditorCaption": ""

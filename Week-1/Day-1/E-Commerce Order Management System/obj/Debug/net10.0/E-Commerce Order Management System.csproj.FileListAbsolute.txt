@@ -12,3 +12,18 @@ C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\E-Commerce Order Management S
 C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.pdb
 C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.genruntimeconfig.cache
 C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\ref\E-Commerce Order Management System.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\bin\Debug\net10.0\E-Commerce Order Management System.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\bin\Debug\net10.0\E-Commerce Order Management System.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\bin\Debug\net10.0\E-Commerce Order Management System.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\bin\Debug\net10.0\E-Commerce Order Management System.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\bin\Debug\net10.0\E-Commerce Order Management System.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\refint\E-Commerce Order Management System.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\E-Commerce Order Management System.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-1\E-Commerce Order Management System\obj\Debug\net10.0\ref\E-Commerce Order Management System.dll
