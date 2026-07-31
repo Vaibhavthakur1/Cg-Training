@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\GraphDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\GraphDemo.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\GraphDemo.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\GraphDemo.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\bin\Debug\net10.0\GraphDemo.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\bin\Debug\net10.0\GraphDemo.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\bin\Debug\net10.0\GraphDemo.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\bin\Debug\net10.0\GraphDemo.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\bin\Debug\net10.0\GraphDemo.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\GraphDemo.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\refint\GraphDemo.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\GraphDemo.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\GraphDemo.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\GraphDemo\obj\Debug\net10.0\ref\GraphDemo.dll

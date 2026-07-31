@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\bin\Debug\net10.0\SocialNetworkFriendRecommendations.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\refint\SocialNetworkFriendRecommendations.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\SocialNetworkFriendRecommendations.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\SocialNetworkFriendRecommendations\obj\Debug\net10.0\ref\SocialNetworkFriendRecommendations.dll

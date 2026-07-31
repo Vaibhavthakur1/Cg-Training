@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\bin\Debug\net10.0\CoursePrereqisiteSystem.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\bin\Debug\net10.0\CoursePrereqisiteSystem.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\bin\Debug\net10.0\CoursePrereqisiteSystem.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\bin\Debug\net10.0\CoursePrereqisiteSystem.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\bin\Debug\net10.0\CoursePrereqisiteSystem.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\CoursePrereqisiteSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\CoursePrereqisiteSystem.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\CoursePrereqisiteSystem.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\CoursePrereqisiteSystem.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\CoursePrereqisiteSystem.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\refint\CoursePrereqisiteSystem.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\CoursePrereqisiteSystem.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\CoursePrereqisiteSystem.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-4\CoursePrereqisiteSystem\obj\Debug\net10.0\ref\CoursePrereqisiteSystem.dll
