@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\bin\Debug\net10.0\BinarySearchTree.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\refint\BinarySearchTree.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\BinarySearchTree.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\BinarySearchTree\obj\Debug\net10.0\ref\BinarySearchTree.dll

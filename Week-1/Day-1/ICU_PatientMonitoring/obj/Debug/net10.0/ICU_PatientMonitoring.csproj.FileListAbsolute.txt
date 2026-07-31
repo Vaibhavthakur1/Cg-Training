@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\bin\Debug\net10.0\ICU_PatientMonitoring.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\bin\Debug\net10.0\ICU_PatientMonitoring.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\bin\Debug\net10.0\ICU_PatientMonitoring.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\bin\Debug\net10.0\ICU_PatientMonitoring.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\bin\Debug\net10.0\ICU_PatientMonitoring.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ICU_PatientMonitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ICU_PatientMonitoring.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ICU_PatientMonitoring.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ICU_PatientMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ICU_PatientMonitoring.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\refint\ICU_PatientMonitoring.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ICU_PatientMonitoring.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ICU_PatientMonitoring.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-1\ICU_PatientMonitoring\obj\Debug\net10.0\ref\ICU_PatientMonitoring.dll

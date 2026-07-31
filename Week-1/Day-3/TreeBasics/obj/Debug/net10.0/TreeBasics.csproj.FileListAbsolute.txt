@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\bin\Debug\net10.0\TreeBasics.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\bin\Debug\net10.0\TreeBasics.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\bin\Debug\net10.0\TreeBasics.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\bin\Debug\net10.0\TreeBasics.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\bin\Debug\net10.0\TreeBasics.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\TreeBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\TreeBasics.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\TreeBasics.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\TreeBasics.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\TreeBasics.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\refint\TreeBasics.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\TreeBasics.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\TreeBasics.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\TreeBasics\obj\Debug\net10.0\ref\TreeBasics.dll

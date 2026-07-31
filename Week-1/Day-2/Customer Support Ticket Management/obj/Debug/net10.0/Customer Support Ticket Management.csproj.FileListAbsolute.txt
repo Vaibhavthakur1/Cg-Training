@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\bin\Debug\net10.0\Customer Support Ticket Management.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\bin\Debug\net10.0\Customer Support Ticket Management.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\bin\Debug\net10.0\Customer Support Ticket Management.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\bin\Debug\net10.0\Customer Support Ticket Management.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\bin\Debug\net10.0\Customer Support Ticket Management.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\Customer Support Ticket Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\Customer Support Ticket Management.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\Customer Support Ticket Management.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\Customer Support Ticket Management.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\Customer Support Ticket Management.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\refint\Customer Support Ticket Management.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\Customer Support Ticket Management.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\Customer Support Ticket Management.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\Customer Support Ticket Management\obj\Debug\net10.0\ref\Customer Support Ticket Management.dll

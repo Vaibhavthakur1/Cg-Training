@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\bin\Debug\net10.0\BrowserHistoryManagement.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\bin\Debug\net10.0\BrowserHistoryManagement.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\bin\Debug\net10.0\BrowserHistoryManagement.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\bin\Debug\net10.0\BrowserHistoryManagement.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\bin\Debug\net10.0\BrowserHistoryManagement.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\BrowserHistoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\BrowserHistoryManagement.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\BrowserHistoryManagement.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\BrowserHistoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\BrowserHistoryManagement.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\refint\BrowserHistoryManagement.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\BrowserHistoryManagement.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\BrowserHistoryManagement.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\BrowserHistoryManagement\obj\Debug\net10.0\ref\BrowserHistoryManagement.dll

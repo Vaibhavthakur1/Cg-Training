@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\bin\Debug\net10.0\HospitalQueueManagement.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\refint\HospitalQueueManagement.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\HospitalQueueManagement.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\HospitalQueueManagement\obj\Debug\net10.0\ref\HospitalQueueManagement.dll

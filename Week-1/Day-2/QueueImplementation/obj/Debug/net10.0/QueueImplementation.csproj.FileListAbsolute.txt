@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\bin\Debug\net10.0\QueueImplementation.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\bin\Debug\net10.0\QueueImplementation.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\bin\Debug\net10.0\QueueImplementation.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\bin\Debug\net10.0\QueueImplementation.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\bin\Debug\net10.0\QueueImplementation.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\QueueImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\QueueImplementation.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\QueueImplementation.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\QueueImplementation.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\QueueImplementation.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\refint\QueueImplementation.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\QueueImplementation.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\QueueImplementation.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\QueueImplementation\obj\Debug\net10.0\ref\QueueImplementation.dll

@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\bin\Debug\net10.0\StackImplementation.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\bin\Debug\net10.0\StackImplementation.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\bin\Debug\net10.0\StackImplementation.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\bin\Debug\net10.0\StackImplementation.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\bin\Debug\net10.0\StackImplementation.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\StackImplementation.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\StackImplementation.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\StackImplementation.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\refint\StackImplementation.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\StackImplementation.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\StackImplementation.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-2\StackImplementation\obj\Debug\net10.0\ref\StackImplementation.dll

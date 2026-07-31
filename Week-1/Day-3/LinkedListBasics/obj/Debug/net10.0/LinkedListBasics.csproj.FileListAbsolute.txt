@@ -1,0 +1,14 @@
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\bin\Debug\net10.0\LinkedListBasics.exe
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\bin\Debug\net10.0\LinkedListBasics.deps.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\bin\Debug\net10.0\LinkedListBasics.runtimeconfig.json
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\bin\Debug\net10.0\LinkedListBasics.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\bin\Debug\net10.0\LinkedListBasics.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\LinkedListBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\LinkedListBasics.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\LinkedListBasics.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\LinkedListBasics.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\LinkedListBasics.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\refint\LinkedListBasics.dll
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\LinkedListBasics.pdb
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\LinkedListBasics.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\20daysTraining\Week-1\Day-3\LinkedListBasics\obj\Debug\net10.0\ref\LinkedListBasics.dll
