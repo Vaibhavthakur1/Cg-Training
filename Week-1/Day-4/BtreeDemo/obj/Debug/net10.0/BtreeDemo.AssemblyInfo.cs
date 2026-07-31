@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BtreeDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5f9605178c380ad4ff6b7be902d2b4d5f9ba37")]
 [assembly: System.Reflection.AssemblyProductAttribute("BtreeDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BtreeDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

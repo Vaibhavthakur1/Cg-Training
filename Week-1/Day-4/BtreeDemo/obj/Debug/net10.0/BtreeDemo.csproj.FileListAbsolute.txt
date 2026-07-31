@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\bin\Debug\net10.0\BtreeDemo.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\bin\Debug\net10.0\BtreeDemo.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\bin\Debug\net10.0\BtreeDemo.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\bin\Debug\net10.0\BtreeDemo.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\bin\Debug\net10.0\BtreeDemo.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\refint\BtreeDemo.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\BtreeDemo.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-4\BtreeDemo\obj\Debug\net10.0\ref\BtreeDemo.dll
