@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\bin\Debug\net10.0\SelectionSorting.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\bin\Debug\net10.0\SelectionSorting.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\bin\Debug\net10.0\SelectionSorting.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\bin\Debug\net10.0\SelectionSorting.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\bin\Debug\net10.0\SelectionSorting.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\refint\SelectionSorting.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\SelectionSorting.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-5\SelectionSorting\obj\Debug\net10.0\ref\SelectionSorting.dll
