@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Reflection;
 using System.Security.Cryptography;
+
+// Employee class stores employee details
 class Employee
 {
     public int Id { get; set; }
@@ -44,7 +46,8 @@ class Employee
 
 }
 class Program
-{   
+{
+    // Display all employee records
     static void Display(List<Employee> employees)
     {
         foreach(var item in employees)
@@ -58,6 +61,9 @@ class Program
         }
     }
 
+    // Perform Linear Search using Employee ID
+    // Returns the index if found, otherwise returns -1
+
     static int SearchByIdLiner(List<Employee> employees,int target)
     {
         for(int i=0;i<employees.Count;i++)
@@ -69,6 +75,9 @@ class Program
         }
         return -1;
     }
+
+    // Perform Binary Search using Employee ID
+    // Employee list must be sorted by ID
     static int SearchByIdBinary(List<Employee> employees, int target)
     {
         int low = 0;
@@ -92,7 +101,8 @@ class Program
         }
         return -1;
     }
-
+    // Search employee by name
+    // Returns the employee index
     static int SearchByName(List<Employee> employees ,string name)
     {
         for(int i=0;i<employees.Count;i++)
@@ -104,6 +114,8 @@ class Program
         }
         return -1;
     }
+
+    // Display all employees belonging to a department
 
     static void SearchByDepName(List<Employee> employees,string Dname)
     {
@@ -121,6 +133,7 @@ class Program
             Console.WriteLine("Employee in not found.");
         }
     }
+    // Display all employees from the given city
 
     static void SearchByCity(List<Employee> employees, string city)
     {
@@ -141,6 +154,7 @@ class Program
         }
     }
 
+    // Display all employees having the given experience
     static void SearchByExperience(List<Employee> employees, int experience)
     {
         bool found = false;
@@ -160,6 +174,7 @@ class Program
         }
     }
 
+    // Display all employees having the given salary
     static void SearchBySalary(List<Employee> employees, double salary)
     {
         bool found = false;
@@ -237,7 +252,7 @@ class Program
         Console.WriteLine("ABC Technologies\nEmployee Search Management System");
         Console.WriteLine("===================================");
         bool running = true;
-        
+        // Display the main menu until the user chooses Exit
         while (running)
         {
             Console.WriteLine("1. Display All Employees");
@@ -257,6 +272,7 @@ class Program
                 case 1:
                     Display(employees);
                     break;
+                // Search employee using Linear Search
                 case 2:
                     Console.WriteLine("Enter the id to search");
                     int target = Convert.ToInt32(Console.ReadLine());
@@ -271,6 +287,7 @@ class Program
                         Console.WriteLine("Employee not found.");
                     }
                     break;
+                // Search employee using Binary Search
                 case 3:
                     Console.WriteLine("Enter the id to Search: ");
                     int target2 = Convert.ToInt32(Console.ReadLine());
@@ -285,6 +302,7 @@ class Program
                         Console.WriteLine("Employee not found.");
                     }
                     break;
+                // Search employee by name
                 case 4:
                     Console.WriteLine("Enter the name to search");
                     string name = Console.ReadLine();
@@ -299,17 +317,21 @@ class Program
                         Console.WriteLine("Employee not found.");
                     }
                     break;
+
+                // Search employee by department name
                 case 5:
                     Console.WriteLine("Enter the Department Name:");
                     string DepName = Console.ReadLine();
                     SearchByDepName(employees, DepName);
                     break;
+                // Search employee by city
                 case 6:
                     Console.Write("Enter City: ");
                     string city = Console.ReadLine();
                     SearchByCity(employees, city);
                     break;
 
+                // Search employee by experience
                 case 7:
                     Console.Write("Enter Experience: ");
                     int experience = Convert.ToInt32(Console.ReadLine());
