@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\bin\Debug\net10.0\JumpSearch.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\bin\Debug\net10.0\JumpSearch.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\bin\Debug\net10.0\JumpSearch.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\bin\Debug\net10.0\JumpSearch.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\bin\Debug\net10.0\JumpSearch.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\refint\JumpSearch.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\JumpSearch.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 1\JumpSearch\obj\Debug\net10.0\ref\JumpSearch.dll

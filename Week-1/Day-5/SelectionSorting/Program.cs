@@ -29,9 +29,10 @@ class Program
         int[] arr = { 3, 4, 2, 7, 5, 9, 1 };
 
         SelectionSort(arr);
+        Console.Write("Selection sort: ");
         foreach(int num in arr)
         {
-            Console.Write(num + "-> ");
+            Console.Write(num + " ");
         }
     }
 }

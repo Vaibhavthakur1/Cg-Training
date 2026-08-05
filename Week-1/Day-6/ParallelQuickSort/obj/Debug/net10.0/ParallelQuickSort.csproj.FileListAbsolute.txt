@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\bin\Debug\net10.0\ParallelQuickSort.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\bin\Debug\net10.0\ParallelQuickSort.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\bin\Debug\net10.0\ParallelQuickSort.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\bin\Debug\net10.0\ParallelQuickSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\bin\Debug\net10.0\ParallelQuickSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\refint\ParallelQuickSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ParallelQuickSort.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\ParallelQuickSort\obj\Debug\net10.0\ref\ParallelQuickSort.dll

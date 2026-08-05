@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\bin\Debug\net10.0\AdaptiveQuickSort.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\bin\Debug\net10.0\AdaptiveQuickSort.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\bin\Debug\net10.0\AdaptiveQuickSort.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\bin\Debug\net10.0\AdaptiveQuickSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\bin\Debug\net10.0\AdaptiveQuickSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\refint\AdaptiveQuickSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\AdaptiveQuickSort.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\AdaptiveQuickSort\obj\Debug\net10.0\ref\AdaptiveQuickSort.dll

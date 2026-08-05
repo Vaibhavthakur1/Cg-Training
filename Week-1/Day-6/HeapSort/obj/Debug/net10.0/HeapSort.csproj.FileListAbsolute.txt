@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\bin\Debug\net10.0\HeapSort.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\bin\Debug\net10.0\HeapSort.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\bin\Debug\net10.0\HeapSort.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\bin\Debug\net10.0\HeapSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\bin\Debug\net10.0\HeapSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\refint\HeapSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\HeapSort.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\HeapSort\obj\Debug\net10.0\ref\HeapSort.dll

@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\bin\Debug\net10.0\IntrospectiveSort.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\bin\Debug\net10.0\IntrospectiveSort.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\bin\Debug\net10.0\IntrospectiveSort.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\bin\Debug\net10.0\IntrospectiveSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\bin\Debug\net10.0\IntrospectiveSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\refint\IntrospectiveSort.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\IntrospectiveSort.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-1\Day-6\IntrospectiveSort\obj\Debug\net10.0\ref\IntrospectiveSort.dll
