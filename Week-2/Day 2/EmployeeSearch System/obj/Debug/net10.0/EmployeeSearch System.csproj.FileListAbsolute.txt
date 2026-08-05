@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\bin\Debug\net10.0\EmployeeSearch System.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\bin\Debug\net10.0\EmployeeSearch System.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\bin\Debug\net10.0\EmployeeSearch System.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\bin\Debug\net10.0\EmployeeSearch System.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\bin\Debug\net10.0\EmployeeSearch System.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\refint\EmployeeSearch System.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\EmployeeSearch System.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 2\EmployeeSearch System\obj\Debug\net10.0\ref\EmployeeSearch System.dll
