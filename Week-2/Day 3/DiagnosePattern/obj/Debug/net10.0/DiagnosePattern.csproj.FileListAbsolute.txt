@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\bin\Debug\net10.0\DiagnosePattern.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\bin\Debug\net10.0\DiagnosePattern.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\bin\Debug\net10.0\DiagnosePattern.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\bin\Debug\net10.0\DiagnosePattern.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\bin\Debug\net10.0\DiagnosePattern.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\refint\DiagnosePattern.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\DiagnosePattern.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\DiagnosePattern\obj\Debug\net10.0\ref\DiagnosePattern.dll
