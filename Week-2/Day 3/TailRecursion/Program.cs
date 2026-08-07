@@ -2,7 +2,7 @@
 
 class Program
 {
-    
+        //tail recursion shows last operation will be the recursive call
     static int TailRecursion(int n,int acc)
     {
         if(n== 0)

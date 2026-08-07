@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BtreeDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44e665718b5538d057bfa625f0f15c9866a2c08f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a1581fefe0485701415dcb53b7826c2f4ea1f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BtreeDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BtreeDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
