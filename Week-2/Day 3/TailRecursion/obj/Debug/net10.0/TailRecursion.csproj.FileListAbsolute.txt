@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\bin\Debug\net10.0\TailRecursion.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\bin\Debug\net10.0\TailRecursion.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\bin\Debug\net10.0\TailRecursion.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\bin\Debug\net10.0\TailRecursion.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\bin\Debug\net10.0\TailRecursion.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\refint\TailRecursion.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\TailRecursion.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TailRecursion\obj\Debug\net10.0\ref\TailRecursion.dll

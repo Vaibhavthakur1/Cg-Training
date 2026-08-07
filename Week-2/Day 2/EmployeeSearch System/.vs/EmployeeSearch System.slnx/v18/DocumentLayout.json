@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{52B3A069-3885-5EE4-7F9F-BD883B14467D}|EmployeeSearch System.csproj|c:\\users\\vaibh\\desktop\\training cg\\week-2\\day 2\\employeesearch system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52B3A069-3885-5EE4-7F9F-BD883B14467D}|EmployeeSearch System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B3A069-3885-5EE4-7F9F-BD883B14467D}|EmployeeSearch System.csproj|c:\\users\\vaibh\\desktop\\training cg\\week-2\\day 2\\employeesearch system\\employee_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B3A069-3885-5EE4-7F9F-BD883B14467D}|EmployeeSearch System.csproj|solutionrelative:employee_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee_Model.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\Employee_Model.cs",
+              "RelativeDocumentMoniker": "Employee_Model.cs",
+              "ToolTip": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\Employee_Model.cs",
+              "RelativeToolTip": "Employee_Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T06:06:33.676Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -48,7 +65,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADgBAAAAAAAAAAAYwEMBAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-05T06:08:09.557Z",
               "EditorCaption": ""

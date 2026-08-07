@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\bin\Debug\net10.0\TreeRecursion.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\bin\Debug\net10.0\TreeRecursion.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\bin\Debug\net10.0\TreeRecursion.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\bin\Debug\net10.0\TreeRecursion.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\bin\Debug\net10.0\TreeRecursion.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\refint\TreeRecursion.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\TreeRecursion.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 3\TreeRecursion\obj\Debug\net10.0\ref\TreeRecursion.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\EmployeeSearch System.csproj",
+      "projectUniqueName": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\EmployeeSearch System.csproj",
       "projectName": "EmployeeSearch System",
-      "projectPath": "c:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\EmployeeSearch System.csproj",
+      "projectPath": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\EmployeeSearch System.csproj",
       "packagesPath": "C:\\Users\\vaibh\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\obj\\",
+      "outputPath": "C:\\Users\\vaibh\\Desktop\\Training Cg\\Week-2\\Day 2\\EmployeeSearch System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -37,6 +37,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -55,6 +56,7 @@
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -72,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
