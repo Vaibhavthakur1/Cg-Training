@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiagnosePattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c54aa602d6f8cec5c3725d14da97e1ae31d89547")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9c182015fd8ab356567a80a949dc3c774c3b341")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiagnosePattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiagnosePattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
