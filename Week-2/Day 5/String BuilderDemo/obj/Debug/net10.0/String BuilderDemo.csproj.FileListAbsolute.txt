@@ -1,0 +1,15 @@
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\bin\Debug\net10.0\String BuilderDemo.exe
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\bin\Debug\net10.0\String BuilderDemo.deps.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\bin\Debug\net10.0\String BuilderDemo.runtimeconfig.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\bin\Debug\net10.0\String BuilderDemo.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\bin\Debug\net10.0\String BuilderDemo.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.sourcelink.json
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\refint\String BuilderDemo.dll
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.pdb
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\String BuilderDemo.genruntimeconfig.cache
+C:\Users\vaibh\Desktop\Training Cg\Week-2\Day 5\String BuilderDemo\obj\Debug\net10.0\ref\String BuilderDemo.dll
