@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="Lab1_Generic/Lab1_Generic.csproj" />
   <Project Path="Lab2_Indexer&amp;Properties/Lab2_Indexer&amp;Properties.csproj" />
+  <Project Path="Lab3_Properties/Lab3_Properties.csproj" />
+  <Project Path="Lab4_Static/Lab4_Static.csproj" />
+  <Project Path="Lab5_ObjectInitializers/Lab5_ObjectInitializers.csproj" />
+  <Project Path="Lab6GenericCapstone/Lab6GenericCapstone.csproj" />
 </Solution>
