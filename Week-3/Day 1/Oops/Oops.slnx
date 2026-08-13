@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Lab1_Encapsulation/Lab1_Encapsulation.csproj" />
+  <Project Path="Lab2_Abstraction/Lab2_Abstraction.csproj" />
+  <Project Path="Lab3_Sealed/Lab3_Sealed.csproj" />
+  <Project Path="Lab4_Interfaces/Lab4_Interfaces.csproj" />
+  <Project Path="Lab5_Capstone/Lab5_Capstone.csproj" />
+</Solution>

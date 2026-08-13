@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lab1_Generic/Lab1_Generic.csproj" />
+  <Project Path="Lab2_Indexer&amp;Properties/Lab2_Indexer&amp;Properties.csproj" />
+</Solution>

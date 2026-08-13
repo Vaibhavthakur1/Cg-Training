@@ -75,7 +75,6 @@ class LogProcessor
         Console.WriteLine("----- BUFFER FLUSH -----");
         Console.Write(buffer.ToString());
 
-        // Clear the buffer after flushing
         buffer.Clear();
 
         Console.WriteLine("----- BUFFER CLEARED -----\n");
