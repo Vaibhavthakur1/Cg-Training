@@ -2,5 +2,6 @@
   <Project Path="Lab1_PatternWriting/Lab1_PatternWriting.csproj" />
   <Project Path="Lab2_ExtractingTransforming/Lab2_ExtractingTransforming.csproj" />
   <Project Path="Lab3_Groups/Lab3_Groups.csproj" />
+  <Project Path="Lab5_Capstone/Lab5_Capstone.csproj" Id="193e29e4-e45e-4e13-8878-88163ad98eaf" />
   <Project Path="Lab_4RegexOptions/Lab_4RegexOptions.csproj" />
 </Solution>
