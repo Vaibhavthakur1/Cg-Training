@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab1_PatternWriting/Lab1_PatternWriting.csproj" />
+  <Project Path="Lab2_ExtractingTransforming/Lab2_ExtractingTransforming.csproj" />
+  <Project Path="Lab3_Groups/Lab3_Groups.csproj" />
+  <Project Path="Lab_4RegexOptions/Lab_4RegexOptions.csproj" />
+</Solution>
