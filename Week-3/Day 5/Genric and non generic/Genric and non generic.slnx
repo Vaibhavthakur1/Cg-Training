@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Lab1Generic&amp;non/Lab1Generic&amp;non.csproj" />
+  <Project Path="Lab2_ListCrud/Lab2_ListCrud.csproj" />
+  <Project Path="Lab3/Lab3.csproj" />
+  <Project Path="Lab4/Lab4.csproj" />
+  <Project Path="Lab5_HashSet/Lab5_HashSet.csproj" />
+  <Project Path="Lab6/Lab6.csproj" />
+  <Project Path="Lab7/Lab7.csproj" />
+</Solution>

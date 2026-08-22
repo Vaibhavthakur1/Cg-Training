@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Lab1/Lab1.csproj" />
+  <Project Path="Lab2_SelectProjection/Lab2_SelectProjection.csproj" />
+  <Project Path="Lab3_WhereFiltering/Lab3_WhereFiltering.csproj" Id="2c286a38-c8b8-44d5-8ee4-300e35df6e0b" />
+  <Project Path="Lab4_OfType/Lab4_OfType.csproj" Id="d7278918-47ec-4f13-a2d8-60674e6f9476" />
+  <Project Path="Lab5_OrderBy/Lab5_OrderBy.csproj" Id="4185fc9c-3f7f-40ab-87a3-f7a56d144998" />
+  <Project Path="Lab6_GroupBy/Lab6_GroupBy.csproj" Id="771bf418-70cb-4536-b9d5-4a7923794318" />
+  <Project Path="Lab7_deffered/Lab7_deffered.csproj" Id="dc7e419b-a12c-4f5f-9fae-12f1b93ffe38" />
+  <Project Path="Lab8_MiniReport/Lab8_MiniReport.csproj" Id="58ac4ab0-8793-4da1-b1ee-2e8ab5bcb49f" />
+</Solution>

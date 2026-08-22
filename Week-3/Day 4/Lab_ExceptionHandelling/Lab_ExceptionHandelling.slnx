@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Lab2_Finally/Lab2_Finally.csproj" />
+  <Project Path="Lab3_throwing/Lab3_throwing.csproj" />
+  <Project Path="Lab4_WrappingException&amp;innerexception/Lab4_WrappingException&amp;innerexception.csproj" />
+  <Project Path="Lab5_Capstone/Lab5_Capstone.csproj" />
+  <Project Path="Lab_ExceptionHandelling/Lab1_Trycatch.csproj" />
+</Solution>

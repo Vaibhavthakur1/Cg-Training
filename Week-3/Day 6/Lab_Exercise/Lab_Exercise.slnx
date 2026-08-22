@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Lab1_VarDynamic/Lab1_VarDynamic.csproj" />
+  <Project Path="Lab2_Delegates/Lab2_Delegates.csproj" />
+  <Project Path="Lab3_MulticastDelegate/Lab3_MulticastDelegate.csproj" />
+  <Project Path="Lab4/Lab4_funcDelegate.csproj" />
+  <Project Path="Lab5_AnonymousMethod/Lab5_AnonymousMethod.csproj" />
+  <Project Path="Lab6_Lembda/Lab6_Lembda.csproj" />
+  <Project Path="Lab7_LoopVariable/Lab7_LoopVariable.csproj" Id="9931009c-fd12-4243-8803-2bde1a3cc63d" />
+  <Project Path="Lab8_CallbackDelegate/Lab8_CallbackDelegate.csproj" Id="1aba49cd-b516-49a0-85a2-d841dd737781" />
+</Solution>

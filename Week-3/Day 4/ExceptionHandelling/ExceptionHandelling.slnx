@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CustomExceptionHandelling/CustomExceptionHandelling.csproj" />
+  <Project Path="ExceptionHandelling/ExceptionHandelling.csproj" />
+  <Project Path="MultipleCatchBlock/MultipleCatchBlock.csproj" />
+</Solution>

@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Lab1_Tuple/Lab1_Tuple.csproj" />
+  <Project Path="Lab2_Senario/Lab2_Senario.csproj" />
+  <Project Path="Lab3_BfsDfs/Lab3_BfsDfs.csproj" />
+  <Project Path="Lab4_collectionApi/Lab4_collectionApi.csproj" />
+  <Project Path="Lab5_BuildList/Lab5_BuildList.csproj" />
+  <Project Path="Lab6_BuildDictionary/Lab6_BuildDictionary.csproj" />
+  <Project Path="Lab7/Lab7.csproj" Id="7f1f423a-247c-4f86-8715-1e825a36978b" />
+  <Project Path="Lab8_Iterator/Lab8_Iterator.csproj" Id="feec58b6-19f8-4961-a36b-a6f36d59c6c3" />
+</Solution>
